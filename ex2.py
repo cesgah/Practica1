@@ -5,7 +5,8 @@ def array (n):
     i=1
     while i<=n:
         arr.append(i)
-        i+=1
+        i+=
+        #comentario
     return arr
 def primos (arr):
     primal=[]
